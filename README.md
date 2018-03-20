@@ -2,4 +2,4 @@
 Frm GitHub tutorial
 
 This is my test.
-I am doing changesin the branch.
+I am doing changes in the branch.
