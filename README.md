@@ -1,5 +1,5 @@
 # hello-world
 Frm GitHub tutorial
 
-This ismy test.
+This is my test.
 I am doing changesin the branch.
